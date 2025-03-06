@@ -1,0 +1,34 @@
+h1{
+    color:pink;
+}
+p{
+    font-weight:bold;
+}
+body{
+    text-align:center;
+}
+#img{
+    background-color: purple;
+    background-image: url("dog.jpg");
+    height: 900px;
+}
+.dog{
+    padding:50px;
+    margin:100px;
+    color:blueviolet;
+    font-size:50px;
+    font-style:italic;
+    border:3px,solid,pink;
+}
+.g{
+    border:1px,dotted,purple;
+    padding:80px;
+    margin:100px;
+}
+.diiv{
+    height:150px;
+    width:200px;
+    background-color:rgb(85, 172, 93);
+    border: 2px solid black;
+    overflow:scroll;
+}
