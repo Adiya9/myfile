@@ -1,0 +1,37 @@
+.button:hover{
+    background-color:blueviolet;
+}
+.button:focus{
+    border-color:red;
+}
+#t{
+    font-size:30px;
+    background-image:url('Без.jpeg');
+    color:white;
+}
+.first:first-child{
+    color:blueviolet;
+}
+.first:last-child{
+    color:rgb(245, 101, 125);
+}
+.p:hover{
+    color:orange;
+}
+.p:focus{
+    background-color: black;
+}
+.list:nth-child(odd){
+    color:brown;
+}
+.list:nth-child(even){
+    color:yellow;
+}
+.k:hover:first-child{
+    color:rgb(70, 2, 70);
+    background-color:rgb(238, 179, 238);
+}
+.k:active:last-child{
+    font-size:25px;
+    font-style:italic;
+}
