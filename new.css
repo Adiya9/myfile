@@ -1,0 +1,27 @@
+h1{
+    background-color:pink;
+    display:inline;
+}
+p{
+    background-color:yellow;
+}
+div{
+    background-color:purple;
+}
+span{
+    background-color:blue;
+}
+img{
+    display:block;
+}
+.cat{
+    display:block;
+    margin:100px;
+    padding:15px;
+}
+.cat img{
+    display:block;
+}
+.cat a{
+    display:block;
+}
