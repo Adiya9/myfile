@@ -1,0 +1,50 @@
+.kama_dur{
+    position:static;
+    border:2px dotted pink;
+    height:20vh;
+    width:20vw;
+}
+.naz_dur{
+    position:static;
+    border:5px solid orange;
+    height:20vh;
+    width:20vw;
+}
+.text{
+    position:relative;
+    border:3px solid rgb(59, 59, 151);
+    top:20px;
+    left:60px;
+}
+.dog{
+    position:relative;
+    border:2px solid black;
+    margin:10px;
+    height:200px;
+    width:200px;
+}
+.cat{
+    position:absolute;
+    top:25px;
+    left:60px;
+}
+.hi{
+    position:absolute;
+    bottom:26px;
+    right:10px;
+}
+.fix{
+    position:fixed;
+    border:1px solid orange;
+    width:300px;
+    height:300px;
+    bottom:5px;
+    right:5px;
+}
+.topic{
+    position:sticky;
+    top:10px;
+}
+.pos{
+    height:800px;
+}
