@@ -1,0 +1,255 @@
+*{ 
+    margin:0;
+    padding:0;
+}
+body{
+    color:#fff;
+    background-color:rgb(34, 29, 29);
+}
+header{
+    padding:30px 40px 50px 50px;
+}
+nav{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.castaway{
+    width:160px;
+    height:32px;
+}
+.listik {
+    display:flex;
+    gap:30px;
+    list-style-type: none;
+}
+.listik a{
+    text-decoration: none;
+    color:white;
+}
+.listik a:hover{
+    color:rgb(52, 52, 108);
+}
+.div2{
+    display:flex;
+    padding:30px 70px 0px 70px;
+}
+.person{
+    width:650px;
+    height:873px;
+}
+.words{
+    padding:220px 100px;
+}
+h3{
+    font-size:70px;
+}
+span{
+    font-size:75px;
+}
+p{
+    margin-top:60px;
+    margin-left:10px;
+    font-size:15px;
+}
+.logos{
+    margin-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+}
+.latest h4{
+    margin:50px 40px 40px 55px;
+    font-size:64px;
+}
+.latest{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-top:70px;
+}
+.latest button{
+    
+    font-family: DM Sans;
+    margin-top:60px;
+    margin-right:40px;
+    color:white;
+    padding:10px 10px 10px 10px;
+    font-size:17px;
+    height:51px;
+    width:178px;
+    border-radius:12px;
+    background-color:rgb(2, 127, 127);
+}
+.block{
+    display:flex;
+    background-color:rgb(19, 18, 18);
+    border-radius:12px;
+    width:1300px;
+    height:545px;
+    margin:50px 40px 40px 55px;
+    padding-top:30px;
+    padding-left:30px;
+}
+
+.block2 button{
+    margin-top:10px;
+    margin-left:50px;
+    height:27px;
+    width:136px;
+    background-color:rgb(59, 55, 55);
+    color:white;
+    border-radius:12px;
+    font-size:18px;
+
+}
+.block2 p{
+    margin:60px;
+    color:#118DA8;
+    font-size:17px;
+}
+.block2 h2{
+    font-size:57px;
+    margin-left:60px;
+    margin-top:40px;
+}
+.block2 h6{
+    font-size:22px;
+    color:#FFFFFFB2;
+    margin-left:60px;
+}
+#o{ 
+    font-family: DM Sans;
+    margin-right:40px;
+    color:white;
+    padding:10px 10px 10px 10px;
+    font-size:17px;
+    height:51px;
+    width:178px;
+    border-radius:12px;
+    background-color:#118DA8;
+}
+.block3{
+    margin-left:60px;
+    margin-top:100px;
+}
+.block3 p{
+    margin-top:9px;
+    color:#118DA8;
+    font-size:18px;
+}
+.block3 h2{
+    font-size:65px;
+    margin-top:15px;
+}
+.block3 h6{
+    color:#FFFFFFB2;
+    font-size:22px;
+    margin-top:25px;
+}
+.bk3{
+    display:flex;
+    margin-top:250px;
+    margin-left:50px;
+}
+.image img{
+    margin-left:200px;
+}
+.for{
+    height:500px;
+    width:1300px;
+    background-color:#000000;
+    border-radius:25px;
+    display:flex;
+    margin:200px 0px 0px 60px;
+}
+.black{
+    margin:20px 10px 10px 20px;
+    padding-left:50px;
+    padding-top:20px;
+}
+.black p{
+    color:#118DA8;
+    font-size:18px;
+}
+.black span{
+    font-size:72px;
+}
+#f{
+    width:522px;
+    height:82px;
+    background-color:#191919;
+    margin-left:300px;
+    margin-top:150px;
+}
+#s{
+    width:522px;
+    height:82px;
+    background-color:#191919;
+    margin-left:300px;
+    margin-top:20px;
+}
+#what{
+    margin-left:300px;
+    margin-top:40px;
+    background-color:#118DA8;
+    color:white;
+    font-size:15px;
+    height:48px;
+    width:87px;
+}
+.hih{
+    display:flex;
+    flex-wrap:wrap;
+    margin-top:150px;
+}
+.rect{
+    height:321px;
+    width:423px;
+    background-color:black;
+    border-radius: 29px;
+    margin:40px 0px 0px 40px;
+    gap:15px;
+}
+.star{
+    margin-top:35px;
+    margin-left:30px;
+}
+.rect p{
+    margin-left:30px;
+    margin-top:20px;
+    font-size:36px;
+}
+.rect #sec{
+    margin-left:30px;
+    margin-top:25px;
+    font-size:23px;
+    color:grey;
+}
+footer{
+    margin-top:180px;
+    display:flex;
+    height:438px;
+    width:1440px;
+    justify-content:space-between;
+}
+#cast{
+    margin-left:50px;
+}
+#log{
+   margin-right:10px;
+}
+.logs{
+    margin-left:52px;
+    margin-top:30px;
+}
+.list1 ul li{
+    list-style-type: none;
+    margin-top:8px;
+}
+.list2 ul li{
+    list-style-type: none;
+    margin-top:8px;
+}
+.logoo img{
+    margin-right:12px;
+}
