@@ -1,0 +1,23 @@
+.emblema-one {
+    font-family: "Emblema One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MyFont";
+    src: url(collection/images/Sarina/Sarina-Regular.ttf);
+}
+.font{
+    font-family:MyFont;
+}
+@font-face {
+    font-family: "MyFonts";
+    src: url(collection/images/Emblema_One/EmblemaOne-Regular.ttf);
+}
+@font-face {
+    font-family: "MyF";
+    src: url(collection/images/Rochester/Rochester-Regular.ttf);
+}
+.fontss{
+    font-family:"MyFonts", "MyF";
+}
