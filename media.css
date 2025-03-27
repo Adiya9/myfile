@@ -1,0 +1,158 @@
+.header{
+    display:flex;
+    width:1440px;
+    height:100px;
+    background-color:#E1EDE6;
+    align-items: center;
+    justify-content: space-between;
+    margin-left:41px;
+}
+.d{
+    display:flex;
+    gap:60px;
+    padding-right:80px;
+}
+.item{
+    list-style-type: none;
+    font-size:20px;
+}
+.ink{
+    color:#598D66;
+    font-size:20px;
+}
+.ink1{
+    display:flex;
+    align-items:center;
+    padding-left:70px;
+    gap:10px;
+}
+.bird{
+    margin-left:100px;
+}
+.word{
+    margin-left:70px;
+    margin-top:140px;
+}
+.replica{
+    font-size:60px;
+}
+.house{
+    color:#598D66;
+}
+.block2{
+    display:flex;
+}
+.sentence{
+    font-size:18px;
+    color:#86928B;
+    margin-top:30px;
+}
+.product{
+    height:65px;
+    width:225px;
+    border:1px solid #598D66;
+    font-size:20px;
+    color:#598D66;
+    text-align: center;
+    line-height: 65px;
+    margin-top:70px;
+}
+.block3{
+    display:grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-gap:30px;
+    padding-left:150px;
+}
+.main{
+    display:flex;
+    justify-content: space-between;
+    width:1280px;
+    margin-top:80px;
+    align-items:center;
+}
+.rep{
+    font-size:40px;
+    margin-left:150px;
+}
+.itemm{
+    background-color:#D4E8D9;
+    font-size:20px;
+    border-radius:11px;
+    border-color:#D4E8D9;
+    margin-right:15px;
+}
+.itemm:hover{
+    background-color:#376B44;
+}
+.margin{
+    padding-right:0px;
+}
+.block4{
+    display:grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-gap:30px;
+    padding-left:150px;
+    margin-top:180px;
+}
+.staar{
+    display:flex;
+    font-size:40px;
+    align-items:center;
+    color:white;
+}
+.staar span{
+    margin-left:30px;
+}
+.block5{
+    padding-left:150px;
+    padding-top:20px;
+    background-image: url("images2/bg.png");
+    height:560px;
+    width:1400px;
+    margin-top:90px;
+    font-family: "Emblema One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.button2 button{
+    height:65px;
+    width:257px;
+    background-color:#EEDB6D;
+    font-size:20px;
+    border-color:#EEDB6D;
+    margin-top:60px;
+}
+.sentence{
+    color:white;
+}
+.block6{
+    display:flex;
+    align-items:center;
+    margin-top:100px;
+}
+.mini{
+    display:flex;
+    gap:10px;
+
+}
+#comand{
+    font-size:40px;
+}
+#many{
+    font-size:18px;
+}
+.image1{
+    margin-left:90px;
+}
+.take{
+    margin-left:70px;
+    font-family: "Emblema One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
+footer img{
+    margin-left:30px;
+    margin-top:-3px;
+    width:1440px;
+}

@@ -1,0 +1,57 @@
+@media (min-width: 680px){
+    .product{
+        margin-top:-90px;
+    }
+    .block3{
+        display:grid;
+        grid-template-columns: 330px 330px;
+        grid-gap:30px;
+        padding-left:150px;
+    }
+    .margin{
+        margin-right:400px;
+    }
+    .header{
+        width:768px;
+        margin-left:90px;
+    }
+    .bird2{
+        width:330px;
+        height:380px;
+        margin:auto;
+    }
+    .block5{
+        padding-left:150px;
+        padding-top:20px;
+        background-image: url("images2/bg.png");
+        height:502px;
+        width:760px;
+        margin-top:90px;
+        font-family: "Emblema One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .image1 img{
+        margin-left:90px;
+        width:500px;
+        height:500px;
+    }
+    .block6{
+        display:flex;
+        align-items:center;
+        margin-top:100px;
+        flex-direction:column;
+    }
+    footer img{
+        margin-left:30px;
+        margin-top:0px;
+        width:850px;
+    }
+    .replica{
+        font-size:40px;
+    }
+    .word{
+        width:330px;
+        margin-left:10px;
+    }
+}
