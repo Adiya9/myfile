@@ -1,0 +1,49 @@
+.transform{
+    width:200px;
+    height:200px;
+    background-color:purple;
+    rotate:60deg;
+    scale:1.2;
+    translate:100px;
+    transform:skew(4deg);
+}
+.transition{
+    width:150px;
+    height:150px;
+    background-color:aquamarine;
+    transition-property:all;
+    transition-duration:3s;
+    transition-delay:0.2s;
+}
+.first:hover{
+    rotate:80deg;
+    scale:2;
+}
+.second:hover{
+    translate:160px;
+}
+@keyframes anim{
+    30%{
+        translate:200px;
+    }
+    60%{
+        rotate:90deg;
+    }
+    80%{
+        scale:2;
+    }
+    100%{
+        scale:1;
+    }
+}
+.animation{
+    background-color:pink;
+    border:1px solid purple;
+    width:150px;
+    height:150px;
+
+    animation-name:anim;
+    animation-duration:4s;
+    animation-delay:0.2s;
+    animation-iteration-count: 3;
+}
